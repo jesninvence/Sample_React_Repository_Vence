@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Sample_React_Repository_Vence/static/css/main.88404e20.css",
+    "main.js": "/Sample_React_Repository_Vence/static/js/main.7f11af06.js",
+    "static/js/787.eed000a1.chunk.js": "/Sample_React_Repository_Vence/static/js/787.eed000a1.chunk.js",
+    "static/media/invoker.gif": "/Sample_React_Repository_Vence/static/media/invoker.f4c2917ce21792e7400f.gif",
+    "static/media/bloodseeker.gif": "/Sample_React_Repository_Vence/static/media/bloodseeker.438f4128016ebd1d5e7e.gif",
+    "static/media/phantom.gif": "/Sample_React_Repository_Vence/static/media/phantom.a14911e5c7c94748eb85.gif",
+    "static/media/lifestealer1.gif": "/Sample_React_Repository_Vence/static/media/lifestealer1.5970971e562d9621e760.gif",
+    "static/media/pudge.gif": "/Sample_React_Repository_Vence/static/media/pudge.77d9de38124205ed3da7.gif",
+    "static/media/dota2.jpg": "/Sample_React_Repository_Vence/static/media/dota2.4def310d89dfcae3dcbe.jpg",
+    "static/media/dranger.gif": "/Sample_React_Repository_Vence/static/media/dranger.d856fb55136e78e31e6f.gif",
+    "index.html": "/Sample_React_Repository_Vence/index.html",
+    "main.88404e20.css.map": "/Sample_React_Repository_Vence/static/css/main.88404e20.css.map",
+    "main.7f11af06.js.map": "/Sample_React_Repository_Vence/static/js/main.7f11af06.js.map",
+    "787.eed000a1.chunk.js.map": "/Sample_React_Repository_Vence/static/js/787.eed000a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88404e20.css",
+    "static/js/main.7f11af06.js"
+  ]
+}
